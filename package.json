@@ -1,0 +1,23 @@
+{
+  "name": "generated-art",
+  "version": "1.0.0",
+  "description": "2D and 3D generated art using canvas, WebGL and ThreeJS",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahoeRobbo/generated-art.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahoeRobbo/generated-art/issues"
+  },
+  "homepage": "https://github.com/tahoeRobbo/generated-art#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4"
+  }
+}
